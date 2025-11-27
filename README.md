@@ -1,8 +1,20 @@
 # Exercícios de MySQL
 
-Este repositório contém os exercícios de MySQL realizados para prática de criação de bancos de dados, tabelas, inserção de dados, consultas (`SELECT`) e atualizações (`UPDATE`).  
+Este repositório contém uma coleção de exercícios desenvolvidos para prática e consolidação de conceitos de Banco de Dados Relacional utilizando MySQL.
+Os projetos abordam desde a definição de tabelas e tipos de dados (DDL) até manipulação e consulta de registros (DML).
 
-Todos os scripts estão organizados por atividade e prontos para serem executados em um servidor MySQL.
+Ao longo das atividades, são aplicados conceitos como:
+
+- Chave primária (PRIMARY KEY)
+- Chave estrangeira (FOREIGN KEY)
+- Relacionamentos 1:N
+- Consultas com INNER JOIN
+- Operadores lógicos e relacionais (>, <, BETWEEN, LIKE)
+- Filtros e ordenações
+- Criação e povoamento de tabelas
+- Scripts completos e reutilizáveis
+
+Todos os arquivos .sql estão organizados por atividade e podem ser executados diretamente em um servidor MySQL.
 
 ---
 
